@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/src/assets/devicezone_logo.png" alt="DeviceZone Logo" height="100" />
+<img src="/devicezone_logo.png" alt="DeviceZone Logo" height="100" />
 
 # 🛒 DeviceZone
 
@@ -12,7 +12,7 @@
 ![React Router](https://img.shields.io/badge/React_Router-6-CA4245?style=flat-square&logo=reactrouter)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-[🌐 Live Demo](#) • [🐛 Report Bug](https://github.com/Ahsan-Mudassar/devicezone/issues) • [✨ Request Feature](https://github.com/Ahsan-Mudassar/devicezone/issues)
+[🌐 Live Demo](#) • [🐛 Report Bug](https://github.com/Ahsan-Mudassar/devicezone/issues](https://device-zone-e-commerce-website.vercel.app/) • [✨ Request Feature](https://github.com/Ahsan-Mudassar/devicezone/issues)
 
 ![DeviceZone Preview](https://via.placeholder.com/900x450?text=DeviceZone+Screenshot)
 
