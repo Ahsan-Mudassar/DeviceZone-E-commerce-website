@@ -24,7 +24,7 @@ export default function Navbar() {
             <div className="max-w-6xl mx-auto px-4 flex justify-between items-center">
 
                 <Link to="/">
-                    <img src="https://kommodo.ai/i/yedGdaHVoXzZGFIkSpiU" className="h-16 sm:h-20" />
+                    <img src="/devicezone_logo.png" className="h-16 sm:h-20" />
                 </Link>
 
                 <ul className="hidden lg:flex gap-5">
