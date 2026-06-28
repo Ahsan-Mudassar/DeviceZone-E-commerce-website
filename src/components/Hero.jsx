@@ -38,7 +38,7 @@ function Hero() {
             <div className="w-full lg:w-1/2 flex justify-center">
                 <img
                     className="w-full max-w-xs sm:max-w-sm lg:max-w-full object-contain"
-                    src="/src/assets/laptop_mobile_fixed.png"
+                    src="https://kommodo.ai/i/pUl4q8QnWnkS4mHTXr0M"
                     alt="Electronics"
                 />
             </div>
